@@ -1,5 +1,5 @@
 ![original cat.jp](./images/cat.jpg)
-![d](https://github.com/Den-St/desing_practice_1/tree/main/workshop_1/images)
+![d](./images)
 <table>
   <tr>
     <th>Зображення</th>
