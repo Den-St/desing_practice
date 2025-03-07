@@ -1,24 +1,61 @@
+### original cat.jp
 ![original cat.jp](./images/cat.jpg)
+
+### cat-mob_600.jpg
 ![cat-mob_600.jpg](./images/cat-mob_600.jpg)
+
+### cat-mozjpeg.jpg
 ![cat-mozjpeg.jpg](./images/cat-mozjpeg.jpg)
+
+### cat-retina_3x.jpg
 ![cat-retina_3x.jpg](./images/cat-retina_3x.jpg)
+
+### cat-screenshot-mob_600.jpg
 ![cat-screenshot-mob_600.jpg](./images/cat-screenshot-mob_600.jpg)
+
+### cat-screenshot-mozjpeg.jpg
 ![cat-screenshot-mozjpeg.jpg](./images/cat-screenshot-mozjpeg.jpg)
+
+### cat-screenshot-retina_3x.jpg
 ![cat-screenshot-retina_3x.jpg](cat-screenshot-retina_3x.jpg)
-![cat-screenshot-web_1200.jpg](./images/cat-screenshot-web_1200.jpg)
+
+### text-screenshot-mozjpeg.jpg
+![text-screenshot-mozjpeg.jpg](./images/cat-screenshot-web_1200.jpg)
+
+### cat-screenshot.png
 ![cat-screenshot.png](./images/cat-screenshot.png)
+
+### cat-screenshot.webp
 ![cat-screenshot.webp](./images/cat-screenshot.webp)
+
+### cat-web_1200.jpg
 ![cat-web_1200.jpg](./images/cat-web_1200.jpg)
+
+### cat.jpg
 ![cat.jpg](./images/cat.jpg)
+
+### cat.webp
 ![cat.webp](./images/cat.webp)
-![cat-screenshot-web_1200.jpg](./images/![cat.webp](./images/cat.webp))
-![cat-screenshot-web_1200.jpg](./images/cat-screenshot-web_1200.jpg)
-![cat.webp](./images/cat.webp)
-![cat.webp](./images/cat.webp)
-![cat.webp](./images/cat.webp)
-![cat.webp](./images/cat.webp)
-![cat.webp](./images/cat.webp)
-![cat.webp](./images/cat.webp)
+
+### text-screenshot-mob_600.jpg
+![text-screenshot-mob_600.jpg](./images/text-screenshot-mob_600.jpg)
+
+### text-screenshot-mozjpeg.jpg
+![text-screenshot-mozjpeg.jpg](./images/text-screenshot-mozjpeg.jpg)
+
+### text-screenshot-retina_3x.jpg
+![text-screenshot-retina_3x.jpg](./images/text-screenshot-retina_3x.jpg)
+
+### text-screenshot-web_1200.jpg
+![text-screenshot-web_1200.jpg](./images/text-screenshot-web_1200.jpg)
+
+### text-screenshot.png
+![text-screenshot.png](./images/text-screenshot.png)
+
+### text-screenshot.webp
+![text-screenshot.webp](./images/text-screenshot.webp)
+
+
 <table>
   <tr>
     <th>Зображення</th>
