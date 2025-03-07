@@ -17,7 +17,7 @@
 ![cat-screenshot-mozjpeg.jpg](./images/cat-screenshot-mozjpeg.jpg)
 
 ### cat-screenshot-retina_3x.jpg
-![cat-screenshot-retina_3x.jpg](cat-screenshot-retina_3x.jpg)
+![cat-screenshot-retina_3x.jpg](./images/cat-screenshot-retina_3x.jpg)
 
 ### text-screenshot-mozjpeg.jpg
 ![text-screenshot-mozjpeg.jpg](./images/cat-screenshot-web_1200.jpg)
